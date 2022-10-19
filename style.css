@@ -1,0 +1,76 @@
+
+.head
+{
+    margin-top:100px ;
+    text-align: center;
+}
+.logo
+{
+ height: 92px;
+ width: 272px;
+
+}
+.art
+{
+    background-color: #eeeeee;
+    height: 65px;
+    width: 100%;
+    margin: auto;
+}
+.searchbox
+{
+    width: 582px;
+    height: 44px;
+    margin: auto;
+    text-align: center;
+   
+    
+}
+.search-input
+{
+    border: 1pxsolid rgb(0, 0, 0);
+    width: 403px;
+    
+}
+.div1
+{
+    float: left;
+    background-color: #7ee5da;
+    height: 85px;
+    text-align: center;
+    width: 40%;
+    
+   
+}
+.div2
+{
+    float: left;
+    background-color: #70ccc2;
+    height: 85px;
+    text-align: center;
+    width: 15%;
+    margin-left: 3.1px;
+
+}
+.div3
+{
+    float: left;
+    background-color: #62b3aa;
+    height: 85px;
+    width: 44.5%;
+    text-align: center;
+    margin-left: 4px;
+   
+}
+a
+{
+ color: blue;
+}
+.copyright
+{
+    
+    margin-top: 100px;
+    width: 100%;
+    text-align: center;
+
+}
